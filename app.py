@@ -1,4 +1,4 @@
-app.pyimport streamlit as st
+import streamlit as st
 import pandas as pd
 
 # 讀取資料
